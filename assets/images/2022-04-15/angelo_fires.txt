@@ -1,0 +1,30 @@
+Main
+2 Assault // Battery
+4 Blastoderm
+4 Call of the Herd
+2 Cursed Scroll
+1 Erhnam Djinn
+3 Fires of Yavimaya
+4 Forest
+4 Incinerate
+4 Karplusan Forest
+4 Kird Ape
+4 Lightning Bolt
+4 Llanowar Elves
+1 Mirri's Guile
+4 Mountain
+4 River Boa
+2 Sylvan Library
+4 Treetop Village
+1 Weatherseed Treefolk
+4 Wooded Foothills
+
+Sideboard
+SB: 1 Caller of the Claw
+SB: 2 Flametongue Kavu
+SB: 1 Hull Breach
+SB: 2 Naturalize
+SB: 2 Phyrexian Furnace
+SB: 3 Pyroblast
+SB: 2 Ravenous Baloth
+SB: 2 Tormod's Crypt
