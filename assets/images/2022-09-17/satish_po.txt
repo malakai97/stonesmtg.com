@@ -1,0 +1,69 @@
+// 60 Maindeck
+// 16 Artifact
+1 Black Lotus
+1 Bolas's Citadel
+1 Mana Crypt
+1 Manifold Key
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Sensei's Divining Top
+1 Sol Ring
+1 Time Vault
+1 Mana Vault
+2 Mox Opal
+// 5 Creature
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Sphinx of the Steel Wind
+2 Hullbreacher
+// 15 Instant
+1 Ancestral Recall
+1 Brainstorm
+1 Flusterstorm
+1 Force of Negation
+4 Force of Will
+1 Mental Misstep
+1 Vampiric Tutor
+3 Paradoxical Outcome
+1 Repeal
+1 Hurkyl's Recall
+// 15 Land
+2 Flooded Strand
+1 Island
+1 Misty Rainforest
+1 Polluted Delta
+1 Scalding Tarn
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+4 Urza's Saga
+
+// 2 Planeswalker
+1 Narset, Parter of Veils
+1 Karn, the Great Creator
+// 7 Sorcery
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Time Walk
+1 Tinker
+1 Yawgmoth's Will
+// 15 Sideboard
+// 4 Artifact
+SB: 1 Pithing Needle
+SB: 1 Liquimetal Coating
+SB: 1 Mycosynth Lattice
+SB: 1 Tormod's Crypt
+// 2 Creature
+SB: 1 Opposition Agent
+SB: 1 Hullbreacher
+// 5 Instant
+SB: 1 Flusterstorm
+SB: 2 Swords to Plowshares
+SB: 2 Hurkyl's Recall
+
+
