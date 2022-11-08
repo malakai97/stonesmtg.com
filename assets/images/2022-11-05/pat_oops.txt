@@ -1,0 +1,42 @@
+Main:
+2x goblin charbelcher
+4x force of will
+1x dread return
+4x balustrade spy
+4x sea gate restoration
+4x agadeem's awakening
+4x dark ritual
+4x undercity informer
+1x tinker
+1x Thassa's Oracle
+4x pact of negation
+4x narcomoeba
+2x cabal therapy
+1x mana crypt
+1x Black Lotus
+1x sol ring
+1x mox pearl
+1x mox jet
+1x mox sapphire
+1x mox emerald
+1x mox ruby
+1x demonic tutor
+1x ancestral recall
+1x mental misstep
+1x gitaxian probe
+1x chain of vapor
+1x lotus petal
+1x mana vault
+4x chrome mox
+1x Lion's eye Diamond
+1x vampiric tutor
+Sideboard:
+3x leyline of the void
+3x chain of vapor
+1x blightsteel colossus
+3x force of negation
+2x goblin charbelcher
+2x Grief
+1x opposition agent
+
+

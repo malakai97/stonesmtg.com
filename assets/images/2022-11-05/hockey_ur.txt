@@ -1,0 +1,51 @@
+2 Polluted Delta
+1 Scalding Tarn
+1 Flooded Strand
+1 Misty Rainforest
+4 Volcanic Island
+2 Island
+3 Wasteland
+1 Strip Mine
+1 Mox Emerald
+1 Mox Sapphire
+1 Mox Jet
+1 Mox Ruby
+1 Mox Pearl
+1 Black Lotus
+1 Mana Crypt
+1 Ancestral Recall
+1 Gitaxian Probe
+1 Ponder
+1 Brainstorm
+2 Flusterstorm
+3 Preordain
+1 Mental Misstep
+1 Mystical Tutor
+1 Time Walk
+3 Ledger Shredder
+4 Fable of the Mirror-Breaker
+4 Force of Will
+4 Caves of Chaos Adventurer
+1 Treasure Cruise
+1 Dig Through Time
+1 Fury
+1 Force of Negation
+1 Gush
+2 Lightning Bolt
+1 Fire//Ice
+1 Dress Down
+1 Hullbreacher
+1 Pyroblast
+
+Sideboard:
+1 The Tabernacle at Pendrell Vale
+2 Surgical Extraction
+1 Tinker
+1 Sphinx of the Steel Wind
+2 Soul-Guide Lantern
+1 Pithing Needle
+1 Fury
+1 Blue Elemental Blast
+3 Shattering Spree
+1 Flusterstorm
+1 Lightning Bolt
