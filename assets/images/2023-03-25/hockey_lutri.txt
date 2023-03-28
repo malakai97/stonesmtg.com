@@ -1,0 +1,70 @@
+1 Ancestral Recall
+1 Black Lotus
+1 Bolas's Citadel
+1 Brainstorm
+1 Demonic Tutor
+1 Dig Through Time
+2 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gitaxian Probe
+1 Hullbreacher
+1 Hurkyl, Master Wizard
+1 Island
+1 Lavinia, Azorius Renegade
+1 Library of Alexandria
+1 Mana Crypt
+1 Manifold Key
+1 Mental Misstep
+1 Merchant Scroll
+1 Mindbreak Trap
+1 Monastery Mentor
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Mystical Dispute
+1 Mystical Tutor
+1 Narset, Parter of Veils
+1 Paradoxical Outcome
+1 Pithing Needle
+1 Polluted Delta
+1 Ponder
+1 Prismatic Ending
+1 Scalding Tarn
+1 Sensei's Divining Top
+1 Sol Ring
+1 Spell Pierce
+1 Sphinx of the Steel Wind
+1 Swords to Plowshares
+1 Teferi, Time Raveler
+1 Thoughtseize
+1 Time Vault
+1 Time Walk
+1 Timetwister
+1 Tinker
+1 Tolarian Academy
+3 Tundra
+2 Underground Sea
+4 Urza's Saga
+1 Vampiric Tutor
+1 Yawgmoth's Will
+Sideboard
+1 Balance
+1 Containment Priest
+1 Cut Down
+1 Defense Grid
+1 Duress
+1 Fragmentize
+1 Hurkyl's Recall
+1 Hydroblast
+1 Lutri, the Spellchaser
+1 Opposition Agent
+1 Portal to Phyrexia
+1 Soul-Guide Lantern
+1 Surgical Extraction
+1 The Tabernacle at Pendrell Vale
+1 Yixlid Jailer
+
